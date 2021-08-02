@@ -17,10 +17,6 @@
 
   </a>  
 </p>
-
-[![TroJanz](https://img.shields.io/badge/MoTechYT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MoTechYT](https://img.shields.io/badge/MoTech-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 # Auto Filter Bot v1
@@ -34,8 +30,6 @@
 * Deploy the bot.
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work now :)
-
-[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
 
 
 ## Deploy
